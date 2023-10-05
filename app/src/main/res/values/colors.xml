@@ -14,4 +14,6 @@
   <color name="categoryTitleText">@color/baseWhite</color>
   <color name="gameTitleText">@color/baseWhite</color>
   <color name="colorAccent">#f4511e</color>
+  <color name="placeholder">#ff4f4f4f</color>
+
 </resources>
